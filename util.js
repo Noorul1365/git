@@ -1,6 +1,8 @@
 const utils = () => {
-    console.log("function call")
+    // console.log("function call")
+    console.log("Added");
 }
 
 
-console.log(utils())
+console.log(utils());
+
